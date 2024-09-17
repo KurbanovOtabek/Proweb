@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+# Translations
+*.mo
+*.pot
+assets/
+static
+.venv
+.env
+.idea
+theme/
+media/
+.well-known/
+settings.json
+venv
+.vscode
+.vscode/
+db.sqlite3
+migrations
